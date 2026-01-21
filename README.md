@@ -1,4 +1,4 @@
-btw i use gentoo
+i use arch btw
 
 <!---
 eltechnical/eltechnical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
