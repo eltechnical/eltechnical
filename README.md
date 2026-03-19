@@ -1,4 +1,4 @@
-i use arch btw
+i use bazzite btw
 
 <!---
 eltechnical/eltechnical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
